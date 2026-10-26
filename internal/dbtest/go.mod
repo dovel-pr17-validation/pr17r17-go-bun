@@ -22,8 +22,8 @@ replace github.com/uptrace/bun/extra/bundebug => ../../extra/bundebug
 
 require (
 	github.com/bradleyjkemp/cupaloy v2.3.0+incompatible
-	github.com/brianvoe/gofakeit/v6 v6.4.1
-	github.com/denisenkom/go-mssqldb v0.12.2
+	github.com/brianvoe/gofakeit/v6 v6.28.0
+	github.com/denisenkom/go-mssqldb v0.12.3
 	github.com/go-sql-driver/mysql v1.6.0
 	github.com/google/uuid v1.6.0
 	github.com/jackc/pgx/v4 v4.11.0
